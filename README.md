@@ -12,8 +12,15 @@ What the Project Does?
 - Interactive Visualization: A scatter plot is created using Bokeh, where each point represents a cosmetic item. Users can hover over points to see detailed information about each product.
   
 Why the Project is Useful?
+
 This project provides valuable insights into cosmetic products by enabling users to:
 
 - Identify similarities between products based on ingredient composition.
 - Explore and compare different moisturizers without requiring a chemistry background.
 - Make informed decisions when selecting cosmetics based on their ingredients.
+
+How Users Can Get Started with the Project?
+
+- Clone the Repository: Download or clone the project repository to your local machine to access the code and dataset.
+- Install Required Libraries: Ensure you have the necessary Python libraries installed, such as pandas, numpy, scikit-learn, and bokeh.
+- Run the Jupyter Notebook: Open the provided Jupyter Notebook, execute the cells sequentially, and explore the visualizations to analyze the similarities between cosmetic products.
